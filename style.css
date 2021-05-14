@@ -1,0 +1,24 @@
+.meuNome {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.descricao {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.resido {
+  font-weight: 600;
+}
+.javascript {
+  font-size: 30px;
+}
+.sql {
+  font-size: 35px;
+}
+.react {
+  font-size: 40px;
+}
+.bootstrap {
+  font-size: 45px;
+}
+body {
+  background-color: #fec89a;
+}
