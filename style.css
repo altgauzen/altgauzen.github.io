@@ -1,9 +1,19 @@
 .meuNome {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
 }
 .descricao {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  position: absolute;
+  top: 53%;
+  right: 10%;
+
 }
+body {
+  background-color: #fec89a;
+  padding: 3%;
+}
+
 .resido {
   font-weight: 600;
 }
@@ -19,6 +29,20 @@
 .bootstrap {
   font-size: 45px;
 }
-body {
-  background-color: #fec89a;
+
+#minha-foto {
+  float: left;
+  height: 300px;
+  padding: 10px;
+  background-color: honeydew;
+}
+.image-container {
+  height: 300px;
+  position: relative;
+}
+div {
+  border: 2px solid green;
+}
+ul li:nth-child(odd) {
+  background-color: aqua;
 }
